@@ -1,0 +1,6 @@
+gradio>=5.27.0
+groq
+openai-whisper
+gtts
+torch
+torchaudio
